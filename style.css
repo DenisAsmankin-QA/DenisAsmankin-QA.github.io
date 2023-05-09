@@ -102,9 +102,9 @@ h3 {
   overflow: hidden;
   border: 10px solid #fff;
 
-  background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
-  animation: ava-animate 5s infinite alternate;
-  box-shadow: 2px 5px 10px rgba(0, 0, 0, .5);
+  background-image: linear-gradient(-225deg, #D4FFEC 0%, #57F2CC 48%, #4596FB 100%); 
+  animation: ava-animate 5s infinite ;
+  box-shadow: 2px 5px 10px rgba(116, 116, 116, 0.5);
 }
 
 .box-img {
